@@ -1,0 +1,1 @@
+untuk self-closing tag seperti: <Input /> dapat digunakan jika component tidak menggunakan children.

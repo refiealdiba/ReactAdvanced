@@ -1,0 +1,1 @@
+untuk setup tailwind bisa dicari pada official websitenya di page create with framework

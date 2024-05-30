@@ -1,0 +1,27 @@
+@atomic design structure:
+sub-atomic -> atom -> molecules -> organism -> templates -> pages
+
+#sub-atomic:
+berupa padding, color, width, dll.
+
+#atom:
+berupa individu seperti: input labels, input field, button.
+
+#moleculs:
+berupa sepasang individu seperti: input labels dengan input field (disebut moleculs).
+
+#organism:
+berupa organism seperti form yang memiliki molecul email dengan atom input dan label email, serta button untuk login.
+
+#templates:
+hasil jadi dari susunan organism yang nantinya akan dipakai untuk pages
+
+#pages:
+seperti halaman login dan signup yang memiliki kemiripan pada satu halaman dapat menggunakan templates dengan membedakan input untuk tiap halaman.
+
+---- untuk pendekatan secara software engineering ----
+atom dan moleculs digabung dan diganti menjadi elements
+organism diganti menjadi fragments
+templates menjadi layouts
+
+untuk elements nantinya atom digabung pada index.jsx

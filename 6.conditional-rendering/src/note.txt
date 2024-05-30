@@ -1,0 +1,2 @@
+menggunakan props type pada AuthLayout untuk menentukan tipe layout login atau register lalu melakukan pengecekan type untuk merender tulisan dont have account atau have an account menggunakan ternary atau menggunakan && seperti: {type === 'login' && (<Component/>)}
+# atau dapat menggunakan component dalam file yang sama dengan menambahkan conditional if else untuk perenderan

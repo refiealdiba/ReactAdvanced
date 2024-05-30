@@ -1,0 +1,6 @@
+menggunakan react-router untuk melakukan routing page
+install react-router-dom dengan npm
+
+-- Client Side Routing --
+1. menggunakan Link untuk berpindah halaman, ganti tag a menjadi <Link> dan ganti href menjadi to="/pages"
+2. import Link dari react-router-dom
