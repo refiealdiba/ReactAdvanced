@@ -1,0 +1,3 @@
+List-rendering
+menggunakan mapping untuk looping untuk merender dari data array products yang ada pada products.jsx untuk CardProduct.
+teknik ini berguna untuk melakukan rendering dari data API

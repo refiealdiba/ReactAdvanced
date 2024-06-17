@@ -1,1 +1,6 @@
 Nested Component: component yang berada dalam component
+lihat pada Fragments CardProduct
+Component utama berupa CardProduct
+component lain yang berada pada file CardProduct(nested component) seperti Header, Body, Footer dapat diexport dengan cara menyebutkan component seperti method:
+CardBody.Header = Header ,sebelum export default lalu memanggilnya pada CardBody dengan props children
+kegunaanya agar lebih terlihat rapi dan mudah untuk diubah datanya dengan props untuk tiap nested-component tanpa membuat file baru.
