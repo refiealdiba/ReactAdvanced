@@ -1,3 +1,6 @@
-List-rendering
-menggunakan mapping untuk looping untuk merender dari data array products yang ada pada products.jsx untuk CardProduct.
-teknik ini berguna untuk melakukan rendering dari data API
+Event Handler
+event handler itu event pada component seperti: onClick, onChange, ...dll
+membuat handler untuk menggunakan eventHandler pada page/file yang akan digunakan
+contoh handlerLogin pada formLogin lalu dipanggil melalui props pada element Button
+
+di sini mensimulasikan login logout user dengan menggunakan local storage untuk mengolah data dan mengguanakn window location untuk routing
