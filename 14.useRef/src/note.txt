@@ -1,0 +1,6 @@
+Event Handler
+event handler itu event pada component seperti: onClick, onChange, ...dll
+membuat handler untuk menggunakan eventHandler pada page/file yang akan digunakan
+contoh handlerLogin pada formLogin lalu dipanggil melalui props pada element Button
+
+di sini mensimulasikan login logout user dengan menggunakan local storage untuk mengolah data dan mengguanakn window location untuk routing
