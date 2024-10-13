@@ -1,0 +1,4 @@
+mengambil data dari API.
+API yang digunakan (open-source): fakestoreapi.com
+
+menggunakan substring untuk melimit teks yang ditampilkan.
