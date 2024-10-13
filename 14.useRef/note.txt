@@ -10,3 +10,4 @@ Impelentasi:
 1. useRef untuk menyimpan data addToCart.
 2. useRef untuk memanipulasi DOM dari total price, jika cart kosong maka total price tidak ditampilkan.
 3. useRef untuk memanipulasi DOM pada halaman Login, saat membuka halaman maka input akan otomatis fokus pada input field Email.
+    untuk penggunaan ref pada component harus menggunakan forwardRef.
