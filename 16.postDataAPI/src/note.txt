@@ -1,0 +1,5 @@
+membuat login dengan mengirim data pada API
+
+jika data ditemukan atau cocok, maka akan menghasilkan token yang akan disimpan pada local storage yang nantinya akan digunakan sebagai identifier atau akses untuk crud pada api
+
+menggunakan library jwt-decode untuk men-decode token yang didapat tadi untuk mendapatkan data seperti username untuk ditampilkan
