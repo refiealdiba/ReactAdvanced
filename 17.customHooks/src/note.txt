@@ -1,0 +1,4 @@
+Custom Hooks
+memisahkan Hooks dari kode utama agar dapat digunakan oleh semua pages
+
+aturan penamaan harus menggunakan use seperti(useLogin)
